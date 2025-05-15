@@ -1,3 +1,5 @@
+#Training App
+
 # FHSS Starter App
 _When starting a new project repo in GitHub, use this repository as the template._
 
